@@ -1,5 +1,5 @@
 # Webpack Starter
-This is a basic webpack setup with CSS and HTML template support, the default template file
+This is a basic webpack setup with PostCSS and HTML template support, the default template file
 is located at `src/templates/welcome.html`.
 
 ## Getting Started

@@ -10,6 +10,7 @@ Install the dependencies
 
 ```npm install```
 
-Run the Development Server and access the app at [https://localhost:3000/](https://localhost:3000/)
+Run the Development Server and access the app at [http://localhost:3000/](http://localhost:3000/)
+
 ```npm run dev```
 
